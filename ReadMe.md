@@ -1,4 +1,4 @@
-ImageNet-mini
+# ImageNet-mini
 
 The dataset is an open source dataset available on kaggle
 This dataset has 1000 classes with over 45k images and is called the ImageNet-mini
